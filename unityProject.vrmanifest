@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.temp2019114f1.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\2019_2020\\4AHMNM\\MTIN_GHMP\\mysteryroom-lealukic\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Temp2019114f1 [Testing]"
+        }
+      }
+    }
+  ]
+}
